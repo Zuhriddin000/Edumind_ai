@@ -1,36 +1,5 @@
-React, { useState, useEffect, useMemo } from 'react';
-import {
-  Brain,
-  LayoutDashboard,
-  GraduationCap,
-  Sparkles,
-  BookOpen,
-  CalendarCheck2,
-  FileText,
-  Settings,
-  Flame,
-  Award,
-  ChevronRight,
-  CheckCircle2,
-  AlertTriangle,
-  Send,
-  Plus,
-  Trash2,
-  Check,
-  RotateCcw,
-  Languages,
-  Key,
-  TrendingUp,
-  Target,
-  ArrowRight,
-  BookCheck,
-  BarChart3,
-  HelpCircle,
-  Clock,
-  Layers,
-  ChevronDown
-} from 'lucide-react';
-
+import React, { useState, useEffect, useMemo } from 'react';
+import { Brain, LayoutDashboard, GraduationCap, Sparkles, BookOpen, CalendarCheck2, FileText, Settings, Flame, Award, ChevronRight, CheckCircle2, AlertTriangle, Send, Plus, Trash2, Check, RotateCcw, Languages, Key, TrendingUp } from 'lucide-react';
 // ============================================================================
 // 1. MULTILINGUAL LOCALIZATION ENGINE (UZBEK LATIN, RUSSIAN, ENGLISH)
 // ============================================================================
